@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: serif;
+}
+
+.navbar ul{
+  list-style: none;
+  background-color: #131200;
+  padding: 0px;
+  margin: 0px;
+
+}
+.navbar a{
+  display: block;
+  color: #2B2C26;
+  text-align: center;
+  text-decoration: none;
+  padding: 25px;
+
+}
+
+.navbar a:hover{
+  background-color: #EBEBEB;
+}
+
+.navbar li{
+  float: right;
+  color: #131200;
+}
